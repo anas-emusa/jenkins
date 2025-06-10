@@ -1,3 +1,4 @@
 hi iam copying develop branch to production
 hi again
 ssh added to test
+chmod 600 added
